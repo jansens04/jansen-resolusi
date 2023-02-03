@@ -1,7 +1,13 @@
 Todo - List - 2023
 
 1. Bangun Pagi 
-3. Minum Air Putih
+3. Minum Air Putih / Minum Energen
 2. Workout 
-3. Codinghttps://github.com/jansens04/jansen-resolusi
+  * Pull Up
+3. Coding
+  * Javascript OOP & Javascript DOM
+  * Git & Github
+  * API 
 4. Bersihkan Rumah
+  * Sapu Rumah
+5 Keluarkan Anjing
