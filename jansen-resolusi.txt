@@ -2,3 +2,5 @@ JANSEN RESOLUSI
 - Belajar GIT & GITHUB
 - Belajar Tailwand CSS
 - Memahami Alur API 
+- Belajar Javascript DOM dan Javascript OOP
+- Belajar PHP
