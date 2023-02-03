@@ -3,7 +3,6 @@ Todo - List - 2023
 1. Bangun Pagi 
 3. Minum Air Putih / Minum Energen
 2. Workout 
-  * Pull Up
 3. Coding
   * Javascript OOP & Javascript DOM
   * Git & Github
@@ -11,3 +10,6 @@ Todo - List - 2023
 4. Bersihkan Rumah
   * Sapu Rumah
 5 Keluarkan Anjing
+5. Pull Up
+6. Baca Buku
+
